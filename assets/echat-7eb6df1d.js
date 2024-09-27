@@ -1,0 +1,1 @@
+import{_ as s,d as t,e as a,F as c,f as e}from"./index-f736c041.js";const n={},o=e("div",{class:"echat_pages"},null,-1),r=e("div",null,null,-1);function _(l,d,p,i,u,f){return t(),a(c,null,[o,r],64)}const m=s(n,[["render",_]]);export{m as default};
